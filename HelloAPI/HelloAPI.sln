@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloAPI", "HelloAPI\HelloAPI.csproj", "{F217F521-0E07-44F7-B730-13527A7FE6E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHelloAPI", "TestHelloAPI\TestHelloAPI.csproj", "{2E1EEC90-E005-4952-8AE1-EC8C1AE676FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F217F521-0E07-44F7-B730-13527A7FE6E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F217F521-0E07-44F7-B730-13527A7FE6E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F217F521-0E07-44F7-B730-13527A7FE6E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1EEC90-E005-4952-8AE1-EC8C1AE676FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1EEC90-E005-4952-8AE1-EC8C1AE676FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1EEC90-E005-4952-8AE1-EC8C1AE676FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1EEC90-E005-4952-8AE1-EC8C1AE676FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
